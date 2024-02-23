@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "@/": "./src/",
+
+    "std/": "https://deno.land/std@0.153.0/",
+
+    "oak": "https://deno.land/x/oak@v11.1.0/mod.ts",
+    "dotenv": "https://deno.land/x/dotenv@v3.2.0/mod.ts",
+    "zod": "https://deno.land/x/zod@v3.18.0/mod.ts"
+  }
+}
